@@ -2,9 +2,9 @@
 
 I am Danilo Montes, a software engineer.
 
-Langauges: Python, Java, Javascript, C, C++
-Tools: Git, CI/CD, Heroku, Docker, Digital Ocean, IDEs, APIs
-Databases: NoSQL - MongoDB, SQL - PostgreSQL
+Langauges: Python, Java, Javascript, C, C++ \
+Tools: Git, CI/CD, Heroku, Docker, Digital Ocean, IDEs, APIs \
+Databases: NoSQL - MongoDB, SQL - PostgreSQL \
 Web Design: Express.js, React, Node.js, HTML, CSS, Handlebars, Flask
 <!--
 
