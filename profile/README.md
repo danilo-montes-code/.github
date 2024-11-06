@@ -1,5 +1,11 @@
 # danilo-montes-code
-A collection of projects created or co-written by Danilo Montes
+
+I am Danilo Montes, a software engineer.
+
+Langauges: Python, Java, Javascript, C, C++
+Tools: Git, CI/CD, Heroku, Docker, Digital Ocean, IDEs, APIs
+Databases: NoSQL - MongoDB, SQL - PostgreSQL
+Web Design: Express.js, React, Node.js, HTML, CSS, Handlebars, Flask
 <!--
 
 **Here are some ideas to get you started:**
