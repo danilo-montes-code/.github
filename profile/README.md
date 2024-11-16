@@ -1,18 +1,12 @@
-# danilo-montes-code
+<h1 align="center">Hello! I'm Danilo Montes 👋</h1>
 
-I am Danilo Montes, a software engineer.
+I am a software engineer looking for entry level roles.
 
-Langauges: Python, Java, Javascript, C, C++ \
-Tools: Git, CI/CD, Heroku, Docker, Digital Ocean, IDEs, APIs \
-Databases: NoSQL - MongoDB, SQL - PostgreSQL \
-Web Design: Express.js, React, Node.js, HTML, CSS, Handlebars, Flask
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3 align="left">Tech Stack</h1>
+  
+| Stack Component | Relevant Tech |
+|-|-|
+| Langauges | Python, Java, Javascript, C, C++ |
+| Tools | Git, CI/CD, Heroku, Docker, Digital Ocean, IDEs, APIs |
+| Databases | NoSQL - MongoDB, SQL - PostgreSQL |
+| Web Design | Express.js, React, Node.js, HTML, CSS, Handlebars, Flask |
