@@ -1,6 +1,6 @@
   <h1 align="center">Hello! I'm Danilo Montes 👋</h1>
 
-I am a software engineer looking for entry level roles. I have experience working with multidisciplinary teams to create solutions that benefit clients and team members alike.
+I am a software engineer with experience working with multidisciplinary teams to create solutions that benefit clients and team members alike.
 
 <h3 align="left">Tech Stack</h1>
   
